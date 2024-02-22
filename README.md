@@ -3,7 +3,7 @@ Saya Syaila Fathia Azzahra dengan NIM 2206272 mengerjakan LP2DPBO2024C1 dalam Pr
 
 
 # Desain dan Alur Program
-Di tugas praktikum DPBO kedua ini kami diminta untuk mengimplementasikan konsep MULTI-LEVEL INHERITANCEDi. Di program ini terdapat 3 kelas yakni Product, Clothing, dan Shirt. Kelas kelas tersebut memiliki atriburnya masing masing yang dimana memiliki tipe data yang berbeda beda misalnya saja id menggunakan integer, harga menggunakan double, dan atribut yang lain menggunakan tipe data stringDi tugas ini kami juga diminta untuk membuatnya ke dalam 4 bahasa pemrograman yakni C++, Java, Python, dan PHP.
+Di tugas praktikum DPBO kedua ini kami diminta untuk mengimplementasikan konsep MULTI-LEVEL INHERITANCEDi. Di program ini terdapat 3 kelas yakni Product, Clothing, dan Shirt. Kelas kelas tersebut memiliki atriburnya masing masing yang dimana memiliki tipe data yang berbeda beda misalnya saja id menggunakan integer, harga menggunakan double, dan atribut yang lain menggunakan tipe data string. Lalu datanya ditampilkan dalam tabel sederhana, program ini juga dimuat ke dalam 4 bahasa pemrograman yakni C++, Java, Python, dan PHP.
 
 
 # Dokumentasi 
